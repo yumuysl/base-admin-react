@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Pure Admin React</h1>
-  <span>中文 | <a href="./README.en_US.md">English</a></span>
+  <h1>C Admin React</h1>
 </div>
 
 ---
